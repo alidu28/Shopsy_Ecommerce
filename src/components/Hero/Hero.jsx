@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from "react";
 import Slider from "react-slick";
 import Image1 from "../../assets/hero/headphone.png";
