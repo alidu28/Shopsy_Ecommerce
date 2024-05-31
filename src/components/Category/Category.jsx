@@ -36,14 +36,14 @@ const Category = () => {
                 {/* third col */}
                 <div className='col-span-2 py-10 pl-5 bg-gradient-to-br from-primary to-primary/90 text-white rounded-3xl relative h-[320px] flex items-end'>
                     <div>
-                        <div className='space-y-2 mb-4'>
-                            <p className=' text-white'>Enjoy</p>
+                        <div className='mb-4'>
+                            <p className='mb-[2px] text-white'>Enjoy</p>
                             <p className='text-2xl font-semibold mb-[2px]'>With</p>
                             <p className='text-4xl xl:text-5xl font-bold opacity-40 mb-2'>Laptop</p>
                             <Button text="Browse" bgColor={"bg-white"} textColor={"text-primary"}/>
                         </div>
                     </div>
-                    <img src={Image3} alt="" className='w-[250px] absolute top-1/2 -translate-y-1/2 -right-0'/>
+                    <img src={Image3} alt="" className='w-[350px] absolute top-1/2 -translate-y-1/2 -right-0'/>
                 </div>
             </div>
         </div>
