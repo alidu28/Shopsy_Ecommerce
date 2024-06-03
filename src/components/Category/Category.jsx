@@ -43,7 +43,7 @@ const Category = () => {
                             <Button text="Browse" bgColor={"bg-white"} textColor={"text-primary"}/>
                         </div>
                     </div>
-                    <img src={Image3} alt="" className='w-[350px] absolute top-1/2 -translate-y-1/2 -right-0'/>
+                    <img src={Image3} alt="" className='w-[300px] absolute top-1/2 -translate-y-1/2 -right-0'/>
                 </div>
             </div>
         </div>
